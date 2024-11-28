@@ -6,7 +6,7 @@ Hi there! I'm  Sree Charan
 
 ## 🚀 **About Me**
 
-**Business Analyst** with 4 years of expertise in **IT, Healthcare and E-commerce** sectors. I have hands-on experience on tools like **SQL**, **Power BI**, and **Excel** to extract actionable insights, solve complex problems, and drive business growth.
+**Analyst** with 4 years of expertise in **IT, Healthcare and E-commerce** sectors. I have hands-on experience on tools like **SQL**, **Power BI**, and **Excel** to extract actionable insights, solve complex problems, and drive business growth.
 
 Passionate about solving problems strategically, I thrive in collaborative environments, working across teams to achieve impactful business outcomes. Open to contributing to projects that drive innovation and enhance operational efficiency.
 
